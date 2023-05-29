@@ -8,7 +8,7 @@ You have to print the number of times that the substring occurs in the given str
 String traversal will take place from left to right, not from right to left.
 """
 
-# Decided not to use regex, to practice recurrsion
+# Decided not to use regex, to practice recursion
 
 
 def count_substring(string, sub_string):
