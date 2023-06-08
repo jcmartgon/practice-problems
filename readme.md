@@ -8,3 +8,4 @@ Documentation will be scarce for the sake of maximizing completions, and will be
 
 - Python
 - RegEx
+- SQL
