@@ -4,6 +4,8 @@ Problems to test and improve my skills. Problems will be taken from sites such a
 
 Documentation will be scarce for the sake of maximizing completions, and will be done on the side as I continue taking courses and working on other projects.
 
+Every problem added here has passed **all** test cases on the corresponding site.
+
 ## Currently practicing
 
 - Python
