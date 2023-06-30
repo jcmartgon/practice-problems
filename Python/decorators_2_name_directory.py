@@ -9,12 +9,10 @@ Print their names in a specific format sorted by their age in ascending order i.
 For two people of the same age, print them in the order of their input.
 """
 
-import operator
-
 
 def person_lister(f):
     def inner(people):
-        sorted_people = sorted(people, key=operator.itemgetter(2))
+        sorted_people = sorted(people, key=lambda x: int(x[2]))
         formatted_names = [f(person) for person in sorted_people]
         return formatted_names
 
