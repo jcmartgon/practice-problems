@@ -11,11 +11,10 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-        l = len(nums) // 2
         ans = []
 
-        for i in range(l):
-            ans.append(nums[i])
-            ans.append(nums[i + l])
+        for i in range(n):
+            ans.append(nums)
+            ans.append(b)
 
         return ans
