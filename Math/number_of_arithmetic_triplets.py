@@ -14,13 +14,14 @@ Return the number of unique arithmetic triplets.
 
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
-        dic = {}
-        quest = {}
+        nums_checked = {}
+        nums_ready = {}
         count = 0
+
         for i in nums:
-            dic[i] = True
-            if i in quest:
+            nums_checked[i] = True
+            if i in nums_ready:
                 count += 1
-            if i - diff in dic:
-                quest[i + diff] = True
+            if i - diff in nums_checked:
+                nums_ready[i + diff] = True
         return count
