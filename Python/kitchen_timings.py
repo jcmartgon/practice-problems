@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
 # 05/08/2023
-# Kitchen timings
+# Kitchen timings (https://www.codechef.com/problems/KITCHENTIME)
 
 """
 The working hours of Chefs kitchen are from X pmto Y pm (I X < Y 12).
