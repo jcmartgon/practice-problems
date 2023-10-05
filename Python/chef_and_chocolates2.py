@@ -1,14 +1,14 @@
 # Jesus Carlos Martinez Gonzalez
-# 03/10/2023
-# Chef and chocolates (https://www.codechef.com/problems/CHEFCHOCO)
+# 04/10/2023
+# Netflix (https://www.codechef.com/problems/NETFLIX)
 
 """
-Chef wants to gift C chocolates to Botswal on his birthday. However, he has only X chocolates with
-him.
-The cost of I chocolate is Y rupees.
-Find the minimum money in rupees Chef needs to spend so that he can gift C chocolates to Botswal.
+Alice, Bob, and Charlie are contributing to buy a Netflix subscription. However, Netfix allows only two
+users to share a subscription.
+Given that Alice, Bob. and Charlie have A, B, and C rupees respectively and a Netflix subscription
+costs X rupees, find whether any two of them can contribute to buy a subscription.
 """
 
 for _ in range(int(input())):
-    a, b, c = map(int, input().split())
-    print((a - b) * c)
+    a, b, c, d = map(int, input().split())
+    print("YES" if a + b >= d or a + c >= d or b + c >= d else "NO")
