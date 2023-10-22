@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
 # 20/10/2023
-# Minimum pizzas (https://www.codechef.com/problems/MINPIZZA?tab=submissions)
+# Minimum pizzas (https://www.codechef.com/problems/MINPIZZA)
 
 """
 Each pizza consists of 4 slices. There are N friends and each friend needs exactly X slices.
