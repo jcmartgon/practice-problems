@@ -1,5 +1,5 @@
 # Jesus Carlos Martinez Gonzalez
-# 09/09/2023
+# 10/11/2023
 # Expense list (https://www.codechef.com/problems/EXPENSES)
 
 """
@@ -11,11 +11,6 @@ for all expenses with indices less than i
 Given that Chef earns 2x rupees in a month, find the amount he saves after paying for all N expenses.
 """
 
-a, b = map(int, input().split())
-print(
-    "https://discuss.codechef.com"
-    if a and b
-    else "https://www.codechef.com/contests"
-    if a
-    else "https://www.codechef.com/practice"
-)
+for _ in range(int(input())):
+    a, b = map(int, input().split())
+    print(pow(2, b - a))

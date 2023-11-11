@@ -1,5 +1,5 @@
 # Jesus Carlos Martinez Gonzalez
-# 08/09/2023
+# 08/11/2023
 # Minimum number of coins (https://www.codechef.com/problems/MINCOINS)
 
 """
