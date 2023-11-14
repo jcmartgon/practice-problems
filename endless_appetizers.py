@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
-# 12/11/2023
-# Far from origin (https://www.codechef.com/problems/FARFROMO)
+# 13/11/2023
+# Endless appetizers (https://www.codechef.com/problems/MOZZ)
 
 """
 Life is a like a box of of mozzarella sticks. You never know what you're gonna get but you can predict
