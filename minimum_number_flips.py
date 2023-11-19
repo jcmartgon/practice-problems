@@ -14,7 +14,7 @@ for _ in range(int(input())):
     n = int(input())
     values = list(map(int, input().split()))
 
-    if n & 1 == 1:
+    if n % 2 != 0:
         print(-1)
     else:
         print(abs(sum(values)) // 2)
