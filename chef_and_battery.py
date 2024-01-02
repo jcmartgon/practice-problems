@@ -11,4 +11,4 @@ Find the minimum time in which Chef can make the battery level reach exactly 50%
 Note that the battery level should always lie in the range 0 to 100 (both included).
 """
 
-print("Happy New Year!")
+print("That was new year's eve")
