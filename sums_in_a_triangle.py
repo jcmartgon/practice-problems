@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
 # 30/01/2024
-# Sums in a triangle (https://www.codechef.com/problems/SUMTRIAN?tab=statement)
+# Sums in a triangle (https://www.codechef.com/problems/SUMTRIAN)
 
 """
 Given an integer N, let us consider a triangle of numbers of N lines in which a number all appears in
