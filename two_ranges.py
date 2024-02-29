@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
 # 27/02/2024
-# Problem (https://www.codechef.com/problems/TWORANGES?tab=statement)
+# Problem (https://www.codechef.com/problems/TWORANGES)
 
 """
 Chef has two ranges [A, B] and [C, D]. Chef needs to find the number of integers that belong to at
