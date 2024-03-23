@@ -1,6 +1,6 @@
 # Jesus Carlos Martinez Gonzalez
 # 21/03/2024
-# Naive chef (https://www.codechef.com/problems/NAICHEF?tab=statement)
+# Naive chef (https://www.codechef.com/problems/NAICHEF)
 
 """
 Once, after a stressful day, Chef decided to relax and visit a casino near his house to gamble. He feels
